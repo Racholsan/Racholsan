@@ -1,5 +1,5 @@
 👋 Hi, @Racholsan here<br>
-👀 Interested in Data Engineering, Data Science, Machine Learning.<br>
+👀 Interested in Data Engineering, Data Science & Machine Learning.<br>
 🌱 Currently working on Big Data Technologies.<br>
 💞️ Looking to collaborate on Kaggle.<br> 
 📫 You can reach me on:<br> 
